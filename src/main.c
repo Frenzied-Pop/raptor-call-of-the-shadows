@@ -26,6 +26,8 @@
 #include "game.h"
 #include "definitions.h"
 
+Data G_DATA;
+
 void read_arguments(Game *game, int argc, char* argv[]) {
 	int i;
 
