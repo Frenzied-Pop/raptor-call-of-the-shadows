@@ -26,7 +26,6 @@
 #include "loader.h"
 #include "dialog.h"
 
-Data G_DATA;
 Resources G_RESOURCES;
 
 void game_add_energy(Game* game, uint32_t energy) {
